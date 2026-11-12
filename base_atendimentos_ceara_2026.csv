@@ -1,0 +1,501 @@
+﻿protocolo,data_abertura,data_conclusao,municipio,setor,assunto,canal,status,prazo_dias,satisfacao
+CE202600001,2026-05-14,,Maracanaú,Assistência Social,Atendimento social,E-mail,Pendente,10,
+CE202600002,2026-08-07,2026-08-21,Canindé,Assistência Social,Cadastro social,Presencial,Concluída,10,5.0
+CE202600003,2026-05-15,2026-05-18,Sobral,Assistência Social,Atendimento social,Aplicativo,Concluída,10,5.0
+CE202600004,2026-01-21,,,Educação,Merenda,Portal,Pendente,15,
+CE202600005,2026-01-14,2026-02-04,Itapipoca,Educação,Transporte escolar,Portal,Concluída,10,5.0
+CE202600006,2026-08-30,2026-09-03,Juazeiro do Norte,Educação,Transporte escolar,Telefone,Concluída,10,4.0
+CE202600007,2026-08-01,2026-08-11,Russas,Assistência Social,Atendimento social,Presencial,Concluída,15,4.0
+CE202600008,2026-09-11,2026-09-23,Juazeiro do Norte,Saúde,Medicamentos,Aplicativo,Concluída,15,4.0
+CE202600009,2026-06-22,2026-06-25,Pacatuba,Educação,Merenda,Aplicativo,Concluída,5,4.0
+CE202600010,2026-06-21,2026-06-27,Iguatu,Infraestrutura,Saneamento,Portal,Concluída,7,4.0
+CE202600011,2026-09-17,2026-09-28,Itapipoca,Educação,Infraestrutura escolar,Telefone,Concluída,5,3.0
+CE202600012,2026-10-30,2026-10-31,Quixadá,Assistência Social,Atendimento social,Portal,Concluída,15,1.0
+CE202600013,2026-05-21,2026-06-01,Maranguape,Assistência Social,Atendimento social,Telefone,Concluída,10,4.0
+CE202600014,2026-07-27,2026-07-28,Quixadá,Educação,Transporte escolar,Aplicativo,Concluída,5,5.0
+CE202600015,2026-03-22,2026-03-24,Aquiraz,Infraestrutura,Buracos em vias,Telefone,Cancelada,15,
+CE202600016,2026-01-30,,Aquiraz,Saúde,Agendamento,Portal,Pendente,10,
+CE202600017,2026-06-16,,Juazeiro do Norte,Infraestrutura,Iluminação pública,Presencial,Pendente,15,
+CE202600018,2026-07-10,2026-07-12,Canindé,Educação,Transporte escolar,Telefone,Concluída,10,4.0
+CE202600019,2026-07-20,2026-07-25,Juazeiro do Norte,Educação,Matrícula,Presencial,Concluída,10,5.0
+CE202600020,2026-06-29,2026-07-01,Fortaleza,Educação,Merenda,Telefone,Concluída,20,5.0
+CE202600021,2026-05-15,2026-05-25,,Infraestrutura,Iluminação pública,Telefone,Concluída,10,3.0
+CE202600022,2026-01-07,,Iguatu,Educação,Transporte escolar,Telefone,Pendente,15,
+CE202600023,2026-07-22,2026-08-10,Aquiraz,Saúde,Agendamento,Portal,Concluída,10,5.0
+CE202600024,2026-03-11,2026-04-01,,Tributação,Regularização,Portal,Concluída,10,5.0
+CE202600025,2026-07-12,2026-07-17,Sobral,Tributação,Regularização,Portal,Concluída,7,3.0
+CE202600026,2026-10-29,,Pacatuba,Educação,Infraestrutura escolar,Aplicativo,Pendente,15,
+CE202600027,2026-05-23,,Sobral,Infraestrutura,Manutenção,Portal,Em análise,10,
+CE202600028,2026-08-16,2026-08-17,Caucaia,Saúde,Atendimento em unidade,Portal,Concluída,20,2.0
+CE202600029,2026-04-22,,Iguatu,Saúde,Exames,Portal,Pendente,7,
+CE202600030,2026-10-23,2026-10-31,Sobral,Assistência Social,Benefício,Presencial,Concluída,5,3.0
+CE202600031,2026-04-01,,Maranguape,Saúde,Agendamento,Portal,Em análise,10,
+CE202600032,2026-08-06,,Itapipoca,Assistência Social,Cadastro social,E-mail,Em análise,5,
+CE202600033,2026-10-23,2026-10-31,Sobral,Educação,Matrícula,E-mail,Concluída,10,3.0
+CE202600034,2026-06-18,,Aquiraz,Saúde,Atendimento em unidade,Telefone,Em análise,5,
+CE202600035,2026-02-20,,Iguatu,Tributação,IPVA,Telefone,Pendente,15,
+CE202600036,2026-01-06,2026-01-11,Crato,Assistência Social,Orientação,Presencial,Concluída,15,3.0
+CE202600037,2026-08-18,2026-09-02,Quixadá,Tributação,Certidão,Aplicativo,Concluída,7,4.0
+CE202600038,2026-03-17,2026-04-06,Russas,Educação,Merenda,Presencial,Concluída,15,2.0
+CE202600039,2026-02-28,2026-03-13,Pacatuba,Saúde,Agendamento,Portal,Concluída,5,3.0
+CE202600040,2026-02-05,2026-02-15,Itapipoca,Saúde,Medicamentos,Presencial,Concluída,5,1.0
+CE202600041,2026-09-09,2026-09-13,Sobral,Educação,Merenda,Portal,Concluída,15,1.0
+CE202600042,2026-03-17,2026-03-21,Russas,Saúde,Agendamento,Portal,Concluída,10,3.0
+CE202600043,2026-02-02,,Fortaleza,Assistência Social,Atendimento social,Aplicativo,Pendente,5,
+CE202600044,2026-10-25,,Quixadá,Tributação,IPVA,Aplicativo,Pendente,15,
+CE202600045,2026-09-09,2026-09-10,Iguatu,Saúde,Atendimento em unidade,Presencial,Concluída,15,4.0
+CE202600046,2026-02-12,2026-03-03,Maranguape,Saúde,Agendamento,Portal,Concluída,10,3.0
+CE202600047,2026-02-25,2026-03-09,Aquiraz,Educação,Transporte escolar,Portal,Concluída,20,4.0
+CE202600048,2026-09-15,,Iguatu,Infraestrutura,Manutenção,Presencial,Em análise,15,
+CE202600049,2026-02-23,2026-03-02,Canindé,Educação,Merenda,Portal,Concluída,10,4.0
+CE202600050,2026-01-26,,Crateús,Assistência Social,Atendimento social,Aplicativo,Pendente,5,
+CE202600051,2026-05-16,,Canindé,Infraestrutura,Manutenção,Portal,Pendente,20,
+CE202600052,2026-01-29,2026-02-13,Maranguape,Infraestrutura,Iluminação pública,Telefone,Concluída,7,4.0
+CE202600053,2026-10-07,2026-10-12,Canindé,Assistência Social,Benefício,Portal,Concluída,10,2.0
+CE202600054,2026-07-19,2026-08-01,Canindé,Saúde,Medicamentos,Aplicativo,Concluída,15,3.0
+CE202600055,2026-08-30,2026-09-10,Crato,Saúde,Exames,Telefone,Concluída,7,5.0
+CE202600056,2026-08-10,2026-08-20,Juazeiro do Norte,Educação,Matrícula,E-mail,Concluída,20,4.0
+CE202600057,2026-09-15,2026-09-22,Crateús,Assistência Social,Benefício,Presencial,Concluída,15,2.0
+CE202600058,2026-01-04,2026-01-05,Sobral,Infraestrutura,Saneamento,Portal,Concluída,15,4.0
+CE202600059,2026-08-13,2026-08-22,Canindé,Tributação,ICMS,Aplicativo,Concluída,20,3.0
+CE202600060,2026-10-31,,Quixadá,Saúde,Atendimento em unidade,Aplicativo,Em análise,10,
+CE202600061,2026-03-16,2026-03-29,Maracanaú,Saúde,Agendamento,Presencial,Concluída,15,5.0
+CE202600062,2026-01-02,2026-01-03,Sobral,Saúde,Agendamento,Portal,Concluída,10,3.0
+CE202600063,2026-10-22,,Russas,Assistência Social,Orientação,Aplicativo,Em análise,10,
+CE202600064,2026-03-03,2026-03-20,Caucaia,Saúde,Medicamentos,Portal,Concluída,10,4.0
+CE202600065,2026-01-17,2026-02-05,Juazeiro do Norte,Assistência Social,Orientação,Portal,Concluída,15,4.0
+CE202600066,2026-01-13,,Itapipoca,Infraestrutura,Iluminação pública,Portal,Pendente,15,
+CE202600067,2026-04-25,2026-05-02,Crateús,Saúde,Agendamento,Portal,Concluída,15,4.0
+CE202600068,2026-04-02,2026-04-09,Juazeiro do Norte,Tributação,Certidão,Telefone,Concluída,10,5.0
+CE202600069,2026-10-05,2026-10-14,Maranguape,Educação,Matrícula,Telefone,Concluída,5,3.0
+CE202600070,2026-07-12,2026-07-13,Quixadá,Infraestrutura,Buracos em vias,Portal,Concluída,10,4.0
+CE202600071,2026-05-26,2026-06-06,Maranguape,Educação,Transporte escolar,Presencial,Concluída,10,4.0
+CE202600072,2026-04-07,,Juazeiro do Norte,Infraestrutura,Saneamento,Presencial,Pendente,10,
+CE202600073,2026-10-20,,Maranguape,Educação,Transporte escolar,E-mail,Em análise,15,
+CE202600074,2026-06-08,,Maranguape,Infraestrutura,Saneamento,Telefone,Pendente,7,
+CE202600075,2026-01-18,,Caucaia,Saúde,Exames,Portal,Pendente,5,
+CE202600076,2026-02-22,2026-02-28,Aquiraz,Educação,Transporte escolar,Portal,Concluída,15,5.0
+CE202600077,2026-03-14,2026-03-19,Quixadá,Saúde,Exames,Aplicativo,Concluída,7,5.0
+CE202600078,2026-07-29,,Russas,Educação,Infraestrutura escolar,Portal,Em análise,7,
+CE202600079,2026-08-18,2026-09-01,Maranguape,Saúde,Atendimento em unidade,Telefone,Concluída,7,5.0
+CE202600080,2026-10-29,2026-10-31,Pacatuba,Assistência Social,Orientação,Telefone,Concluída,10,2.0
+CE202600081,2026-10-07,2026-10-18,Juazeiro do Norte,Educação,Infraestrutura escolar,Portal,Concluída,20,3.0
+CE202600082,2026-06-28,2026-06-29,Pacatuba,Infraestrutura,Manutenção,Presencial,Concluída,5,5.0
+CE202600083,2026-08-30,2026-09-12,Canindé,Infraestrutura,Saneamento,Aplicativo,Concluída,7,3.0
+CE202600084,2026-08-22,,Itapipoca,Infraestrutura,Saneamento,Presencial,Pendente,10,
+CE202600085,2026-04-27,2026-04-30,Crato,Assistência Social,Orientação,Aplicativo,Concluída,10,4.0
+CE202600086,2026-02-23,2026-03-03,Aquiraz,Infraestrutura,Buracos em vias,Portal,Concluída,7,5.0
+CE202600087,2026-06-22,2026-07-02,Fortaleza,Infraestrutura,Buracos em vias,Presencial,Concluída,15,5.0
+CE202600088,2026-08-20,,Sobral,Educação,Infraestrutura escolar,Aplicativo,Pendente,15,
+CE202600089,2026-01-23,,Caucaia,Tributação,Regularização,Telefone,Em análise,10,
+CE202600090,2026-10-22,2026-10-28,Canindé,Infraestrutura,Buracos em vias,Aplicativo,Cancelada,7,
+CE202600091,2026-02-07,2026-02-12,Pacatuba,Educação,Matrícula,E-mail,Concluída,15,5.0
+CE202600092,2026-01-23,2026-01-28,Canindé,Educação,Transporte escolar,Aplicativo,Concluída,10,5.0
+CE202600093,2026-04-24,2026-05-04,Quixadá,Saúde,Agendamento,Aplicativo,Concluída,5,4.0
+CE202600094,2026-04-30,2026-05-17,,Assistência Social,Orientação,Portal,Concluída,7,5.0
+CE202600095,2026-07-25,2026-07-31,Maracanaú,Infraestrutura,Buracos em vias,Aplicativo,Concluída,10,4.0
+CE202600096,2026-08-26,2026-09-02,Pacatuba,Educação,Matrícula,Aplicativo,Concluída,10,3.0
+CE202600097,2026-01-26,2026-02-08,Quixadá,Saúde,Atendimento em unidade,Telefone,Concluída,15,5.0
+CE202600098,2026-02-06,2026-02-11,Canindé,Saúde,Medicamentos,Telefone,Cancelada,15,
+CE202600099,2026-03-08,2026-03-10,Maranguape,Tributação,Certidão,Portal,Concluída,7,3.0
+CE202600100,2026-07-12,2026-07-13,Maranguape,Educação,Infraestrutura escolar,Portal,Concluída,10,5.0
+CE202600101,2026-04-28,2026-05-03,Maracanaú,Tributação,Certidão,Presencial,Concluída,20,5.0
+CE202600102,2026-04-02,2026-04-13,Fortaleza,Infraestrutura,Iluminação pública,Telefone,Concluída,7,5.0
+CE202600103,2026-06-27,2026-07-13,Canindé,Assistência Social,Benefício,Aplicativo,Concluída,10,4.0
+CE202600104,2026-08-28,2026-09-14,Sobral,Tributação,ICMS,Telefone,Concluída,10,4.0
+CE202600105,2026-02-12,2026-02-13,Sobral,Educação,Infraestrutura escolar,Portal,Cancelada,5,
+CE202600106,2026-10-27,2026-10-31,Itapipoca,Saúde,Agendamento,Telefone,Concluída,7,2.0
+CE202600107,2026-08-01,2026-08-08,Juazeiro do Norte,Saúde,Exames,Portal,Concluída,7,4.0
+CE202600108,2026-02-19,2026-02-20,Fortaleza,Tributação,IPVA,Aplicativo,Concluída,10,4.0
+CE202600109,2026-03-21,2026-03-22,Crato,Assistência Social,Atendimento social,Portal,Concluída,7,4.0
+CE202600110,2026-05-27,2026-06-05,Fortaleza,Tributação,IPVA,Portal,Concluída,15,1.0
+CE202600111,2026-01-03,2026-01-04,Maranguape,Tributação,IPVA,Telefone,Concluída,5,4.0
+CE202600112,2026-07-28,2026-08-16,Pacatuba,Infraestrutura,Iluminação pública,Aplicativo,Concluída,15,3.0
+CE202600113,2026-03-19,,Crateús,Assistência Social,Benefício,E-mail,Pendente,10,
+CE202600114,2026-08-12,2026-08-23,Pacatuba,Educação,Merenda,Telefone,Concluída,15,3.0
+CE202600115,2026-01-24,2026-02-02,Quixadá,Educação,Infraestrutura escolar,Presencial,Concluída,7,3.0
+CE202600116,2026-09-09,,Sobral,Assistência Social,Atendimento social,Portal,Pendente,10,
+CE202600117,2026-07-30,2026-07-31,Russas,Saúde,Atendimento em unidade,E-mail,Concluída,10,1.0
+CE202600118,2026-04-29,,Caucaia,Infraestrutura,Iluminação pública,Telefone,Pendente,15,
+CE202600119,2026-03-25,2026-04-06,Crateús,Infraestrutura,Iluminação pública,Portal,Concluída,10,4.0
+CE202600120,2026-02-17,,Maracanaú,Infraestrutura,Manutenção,Presencial,Pendente,7,
+CE202600121,2026-05-01,,Canindé,Infraestrutura,Saneamento,Aplicativo,Em análise,15,
+CE202600122,2026-02-15,2026-02-20,Itapipoca,Tributação,Certidão,Telefone,Concluída,5,4.0
+CE202600123,2026-09-28,2026-10-08,Maracanaú,Saúde,Exames,Portal,Concluída,10,5.0
+CE202600124,2026-10-26,2026-10-27,Russas,Assistência Social,Cadastro social,Portal,Concluída,10,5.0
+CE202600125,2026-08-14,,Crateús,Infraestrutura,Iluminação pública,Portal,Em análise,15,
+CE202600126,2026-08-01,,Pacatuba,Tributação,Certidão,Portal,Pendente,5,
+CE202600127,2026-01-08,2026-01-14,Aquiraz,Assistência Social,Benefício,Aplicativo,Cancelada,7,
+CE202600128,2026-04-08,2026-04-12,Iguatu,Educação,Merenda,Telefone,Concluída,10,4.0
+CE202600129,2026-04-13,2026-04-24,Crato,Saúde,Exames,Portal,Concluída,5,4.0
+CE202600130,2026-03-16,2026-03-25,Maranguape,Tributação,Certidão,Portal,Concluída,15,3.0
+CE202600131,2026-01-18,2026-01-20,,Infraestrutura,Iluminação pública, presencial ,Concluída,5,5.0
+CE202600132,2026-02-03,2026-02-11,Canindé,Infraestrutura,Manutenção,E-mail,Concluída,7,5.0
+CE202600133,2026-04-18,2026-05-04,Crateús,Tributação,Regularização,Portal,Concluída,5,4.0
+CE202600134,2026-07-07,2026-07-16,Caucaia,Assistência Social,Atendimento social,Presencial,Concluída,7,3.0
+CE202600135,2026-08-13,2026-08-22,Sobral,Assistência Social,Orientação,Portal,Concluída,10,5.0
+CE202600136,2026-02-06,,Crato,Tributação,ICMS,Aplicativo,Pendente,5,
+CE202600137,2026-07-17,2026-07-31,Itapipoca,Saúde,Medicamentos,Aplicativo,Concluída,7,5.0
+CE202600138,2026-06-11,2026-06-18,Caucaia,Educação,Merenda,Aplicativo,Concluída,7,5.0
+CE202600139,2026-03-27,2026-04-03,Maranguape,Infraestrutura,Manutenção,Portal,Concluída,10,2.0
+CE202600140,2026-05-27,2026-05-30,Iguatu,Tributação,IPVA,Portal,Cancelada,7,
+CE202600141,2026-01-10,2026-01-24,Caucaia,Saúde,Exames,Telefone,Concluída,20,4.0
+CE202600142,2026-07-20,2026-07-22,Pacatuba,Infraestrutura,Buracos em vias,Telefone,Cancelada,15,
+CE202600143,2026-09-09,2026-09-26,Russas,Saúde,Atendimento em unidade,Presencial,Concluída,5,5.0
+CE202600144,2026-08-30,2026-09-01,Canindé,Assistência Social,Atendimento social,E-mail,Concluída,20,4.0
+CE202600145,2026-09-24,2026-10-01,Fortaleza,Educação,Matrícula,Telefone,Concluída,5,4.0
+CE202600146,2026-04-08,,Sobral,Tributação,Certidão,Presencial,Em análise,10,
+CE202600147,2026-07-06,2026-07-19,Crateús,Educação,Merenda,Portal,Concluída,7,5.0
+CE202600148,2026-09-29,,Itapipoca,Educação,Transporte escolar,Presencial,Em análise,20,
+CE202600149,2026-04-20,2026-04-28,Crateús,Educação,Merenda,Presencial,Concluída,15,4.0
+CE202600150,2026-10-03,2026-10-07,Itapipoca,Infraestrutura,Saneamento,Portal,Concluída,10,4.0
+CE202600151,2026-04-09,,Aquiraz,Saúde,Medicamentos,Portal,Em análise,10,
+CE202600152,2026-03-02,,Canindé,Educação,Infraestrutura escolar,Presencial,Em análise,15,
+CE202600153,2026-09-22,2026-10-03,Sobral,Saúde,Agendamento,Portal,Concluída,7,5.0
+CE202600154,2026-08-02,2026-08-08,Maracanaú,Infraestrutura,Saneamento,Presencial,Cancelada,10,
+CE202600155,2026-10-24,2026-10-31,Aquiraz,Educação,Merenda,Presencial,Concluída,10,4.0
+CE202600156,2026-02-23,,,Educação,Infraestrutura escolar,Telefone,Pendente,7,
+CE202600157,2026-07-12,2026-07-17,Sobral,Infraestrutura,Buracos em vias,E-mail,Concluída,7,5.0
+CE202600158,2026-10-31,,Canindé,Assistência Social,Orientação,Telefone,Em análise,10,
+CE202600159,2026-07-16,2026-07-27,Sobral,Saúde,Atendimento em unidade,Aplicativo,Concluída,7,4.0
+CE202600160,2026-06-23,2026-07-04,Juazeiro do Norte,Tributação,IPVA,Portal,Concluída,7,5.0
+CE202600161,2026-02-05,2026-02-08,Fortaleza,Assistência Social,Atendimento social,Presencial,Concluída,20,2.0
+CE202600162,2026-03-30,2026-04-10,Crateús,Tributação,ICMS,Aplicativo,Concluída,5,3.0
+CE202600163,2026-02-04,,Juazeiro do Norte,Infraestrutura,Buracos em vias,Telefone,Pendente,7,
+CE202600164,2026-03-31,,Aquiraz,Infraestrutura,Buracos em vias, e-mail ,Em análise,20,
+CE202600165,2026-01-29,,Sobral,Infraestrutura,Iluminação pública,Telefone,Em análise,20,
+CE202600166,2026-03-05,,Fortaleza,Educação,Transporte escolar,Aplicativo,Em análise,7,
+CE202600167,2026-09-07,2026-09-24,Juazeiro do Norte,Assistência Social,Orientação,Aplicativo,Concluída,7,5.0
+CE202600168,2026-06-23,2026-07-04,Russas,Saúde,Medicamentos,Portal,Concluída,7,2.0
+CE202600169,2026-05-13,,Crato,Saúde,Agendamento,Aplicativo,Em análise,5,
+CE202600170,2026-01-09,,Juazeiro do Norte,Saúde,Atendimento em unidade,Telefone,Pendente,15,
+CE202600171,2026-01-29,2026-02-07,Maracanaú,Assistência Social,Cadastro social,Aplicativo,Concluída,15,5.0
+CE202600172,2026-04-04,2026-04-13,Crato,Educação,Merenda,Portal,Concluída,7,2.0
+CE202600173,2026-02-23,,Aquiraz,Saúde,Agendamento,Portal,Pendente,7,
+CE202600174,2026-02-24,2026-03-13,Itapipoca,Infraestrutura,Manutenção,Portal,Concluída,15,5.0
+CE202600175,2026-07-19,2026-07-22,Crato,Saúde,Medicamentos,Presencial,Concluída,15,4.0
+CE202600176,2026-06-11,2026-06-19,Fortaleza,Saúde,Exames,Aplicativo,Concluída,10,4.0
+CE202600177,2026-06-20,2026-07-01,Itapipoca,Assistência Social,Benefício,Presencial,Concluída,7,3.0
+CE202600178,2026-04-21,2026-05-02,Fortaleza,Saúde,Atendimento em unidade,Aplicativo,Concluída,15,3.0
+CE202600179,2026-05-25,,Crato,Educação,Infraestrutura escolar,Presencial,Pendente,5,
+CE202600180,2026-04-02,2026-04-03,Aquiraz,Saúde,Agendamento,Portal,Concluída,5,4.0
+CE202600181,2026-09-19,2026-09-22,Crato,Saúde,Atendimento em unidade,Presencial,Concluída,7,3.0
+CE202600182,2026-09-01,,Russas,Saúde,Medicamentos,Portal,Pendente,5,
+CE202600183,2026-07-08,2026-07-16,Aquiraz,Saúde,Medicamentos,E-mail,Concluída,15,5.0
+CE202600184,2026-03-05,2026-03-17,Itapipoca,Saúde,Atendimento em unidade,Portal,Concluída,20,5.0
+CE202600185,2026-06-01,2026-06-10,Canindé,Tributação,ICMS,Portal,Concluída,20,4.0
+CE202600186,2026-03-07,2026-03-09,Juazeiro do Norte,Educação,Merenda,Telefone,Concluída,15,3.0
+CE202600187,2026-07-12,,Aquiraz,Educação,Infraestrutura escolar,Portal,Pendente,20,
+CE202600188,2026-10-22,2026-10-26,Iguatu,Educação,Transporte escolar,Portal,Concluída,10,3.0
+CE202600189,2026-01-29,2026-02-07,Canindé,Educação,Merenda,Aplicativo,Concluída,15,3.0
+CE202600190,2026-06-09,,Pacatuba,Saúde,Atendimento em unidade,Presencial,Pendente,10,
+CE202600191,2026-10-15,2026-10-20,Quixadá,Saúde,Atendimento em unidade,Presencial,Concluída,20,1.0
+CE202600192,2026-01-26,,Fortaleza,Infraestrutura,Iluminação pública,Telefone,Em análise,15,
+CE202600193,2026-01-02,,Russas,Educação,Transporte escolar,Portal,Pendente,7,
+CE202600194,2026-01-18,2026-01-19,Sobral,Infraestrutura,Manutenção,E-mail,Concluída,15,4.0
+CE202600195,2026-09-18,2026-09-27,Caucaia,Tributação,Regularização,Aplicativo,Concluída,10,3.0
+CE202600196,2026-03-16,2026-03-20,Russas,Infraestrutura,Iluminação pública,Portal,Cancelada,10,
+CE202600197,2026-02-09,,Caucaia,Educação,Transporte escolar,Portal,Pendente,15,
+CE202600198,2026-09-23,2026-09-24,Iguatu,Educação,Merenda,Presencial,Concluída,10,4.0
+CE202600199,2026-08-29,2026-09-08,Quixadá,Educação,Matrícula,Portal,Concluída,10,3.0
+CE202600200,2026-04-15,2026-04-25,Itapipoca,Saúde,Medicamentos,Portal,Concluída,20,5.0
+CE202600201,2026-10-29,,Russas,Infraestrutura,Manutenção,Telefone,Em análise,10,
+CE202600202,2026-06-12,2026-06-17,Fortaleza,Saúde,Agendamento,Presencial,Cancelada,20,
+CE202600203,2026-10-02,2026-10-03,Sobral,Educação,Merenda,Aplicativo,Concluída,20,2.0
+CE202600204,2026-08-08,,Iguatu,Saúde,Agendamento,Telefone,Pendente,10,
+CE202600205,2026-01-20,2026-01-26,Juazeiro do Norte,Educação,Infraestrutura escolar,Portal,Cancelada,7,
+CE202600206,2026-01-29,,Iguatu,Tributação,IPVA,E-mail,Pendente,15,
+CE202600207,2026-04-21,2026-05-03,Crateús,Assistência Social,Orientação,Aplicativo,Concluída,15,4.0
+CE202600208,2026-08-03,2026-08-11,Juazeiro do Norte,Tributação,ICMS,Portal,Concluída,10,3.0
+CE202600209,2026-06-22,2026-07-09,Canindé,Saúde,Medicamentos,Portal,Concluída,20,1.0
+CE202600210,2026-10-24,2026-10-31,Fortaleza,Saúde,Medicamentos,Portal,Concluída,10,5.0
+CE202600211,2026-10-11,2026-10-21,Fortaleza,Saúde,Agendamento,Presencial,Concluída,10,4.0
+CE202600212,2026-09-01,2026-09-17,Caucaia,Saúde,Atendimento em unidade,Portal,Concluída,15,3.0
+CE202600213,2026-07-08,2026-07-15,Crateús,Educação,Matrícula,Portal,Concluída,15,3.0
+CE202600214,2026-07-24,2026-08-05,Aquiraz,Infraestrutura,Iluminação pública,Portal,Concluída,7,3.0
+CE202600215,2026-06-29,2026-07-05,Maranguape,Saúde,Exames,Telefone,Concluída,10,5.0
+CE202600216,2026-05-09,2026-05-26,Quixadá,Educação,Infraestrutura escolar,E-mail,Concluída,10,4.0
+CE202600217,2026-05-31,2026-06-12,Russas,Educação,Matrícula,Aplicativo,Concluída,5,4.0
+CE202600218,2026-07-13,,Sobral,Educação,Transporte escolar,Presencial,Pendente,10,
+CE202600219,2026-10-10,2026-10-24,Crateús,Infraestrutura,Buracos em vias,Presencial,Concluída,10,4.0
+CE202600220,2026-03-07,,Crato,Educação,Merenda,Presencial,Em análise,5,
+CE202600221,2026-03-10,2026-03-11,Russas,Assistência Social,Cadastro social,Portal,Concluída,5,2.0
+CE202600222,2026-06-10,,Juazeiro do Norte,Educação,Transporte escolar,Portal,Pendente,15,
+CE202600223,2026-08-28,2026-09-02,Maranguape,Educação,Merenda,Telefone,Concluída,7,2.0
+CE202600224,2026-01-22,2026-01-24,Maracanaú,Assistência Social,Cadastro social,Aplicativo,Concluída,15,5.0
+CE202600225,2026-04-14,2026-04-25,Crato,Saúde,Medicamentos,Aplicativo,Concluída,10,3.0
+CE202600226,2026-03-24,2026-04-07,Russas,Educação,Matrícula,Aplicativo,Concluída,10,3.0
+CE202600227,2026-04-21,,Maranguape,Tributação,IPVA,E-mail,Em análise,15,
+CE202600228,2026-09-28,,Crato,Infraestrutura,Buracos em vias,Portal,Pendente,15,
+CE202600229,2026-06-26,2026-07-06,Maranguape,Saúde,Medicamentos,Aplicativo,Concluída,10,4.0
+CE202600230,2026-03-10,,Canindé,Saúde,Atendimento em unidade,Aplicativo,Pendente,15,
+CE202600231,2026-02-18,2026-03-07,Sobral,Tributação,Regularização,Portal,Concluída,7,5.0
+CE202600232,2026-04-01,2026-04-05,Canindé,Infraestrutura,Saneamento,Aplicativo,Concluída,7,5.0
+CE202600233,2026-07-23,2026-07-31,Juazeiro do Norte,Infraestrutura,Buracos em vias,Portal,Concluída,15,5.0
+CE202600234,2026-09-05,2026-09-07,Fortaleza,Infraestrutura,Manutenção,Telefone,Concluída,7,3.0
+CE202600235,2026-08-24,,Canindé,Saúde,Medicamentos,Aplicativo,Em análise,7,
+CE202600236,2026-01-02,2026-01-13,Russas,Saúde,Atendimento em unidade,Aplicativo,Concluída,20,3.0
+CE202600237,2026-02-12,,Crato,Saúde,Atendimento em unidade,Portal,Em análise,7,
+CE202600238,2026-05-05,2026-05-12,Juazeiro do Norte,Saúde,Atendimento em unidade,Telefone,Concluída,15,4.0
+CE202600239,2026-03-15,2026-03-23,Russas,Educação,Infraestrutura escolar,Telefone,Concluída,15,2.0
+CE202600240,2026-02-26,2026-03-08,Iguatu,Saúde,Agendamento,Portal,Concluída,7,5.0
+CE202600241,2026-02-06,2026-02-18,Maracanaú,Saúde,Exames,Aplicativo,Concluída,20,3.0
+CE202600242,2026-01-11,2026-01-24,Crato,Educação,Transporte escolar,Aplicativo,Concluída,10,3.0
+CE202600243,2026-01-23,2026-01-24,Maracanaú,Assistência Social,Orientação,Aplicativo,Concluída,15,4.0
+CE202600244,2026-08-26,,Crateús,Saúde,Agendamento,Aplicativo,Pendente,15,
+CE202600245,2026-10-27,,Canindé,Infraestrutura,Buracos em vias,Portal,Pendente,15,
+CE202600246,2026-03-14,2026-03-30,Pacatuba,Saúde,Exames,Aplicativo,Concluída,10,4.0
+CE202600247,2026-08-24,,Canindé,Saúde,Exames,Portal,Em análise,10,
+CE202600248,2026-10-20,,Juazeiro do Norte,Assistência Social,Benefício,Portal,Em análise,20,
+CE202600249,2026-07-20,2026-07-24,Iguatu,Infraestrutura,Manutenção,Aplicativo,Cancelada,5,
+CE202600250,2026-06-07,2026-06-16,Canindé,Educação,Transporte escolar,Aplicativo,Concluída,20,3.0
+CE202600251,2026-07-04,,Crateús,Educação,Matrícula,Portal,Em análise,15,
+CE202600252,2026-04-08,2026-04-20,Iguatu,Assistência Social,Cadastro social,Portal,Concluída,5,5.0
+CE202600253,2026-10-15,2026-10-23,Maracanaú,Educação,Transporte escolar,Aplicativo,Concluída,15,5.0
+CE202600254,2026-06-16,,Maranguape,Saúde,Atendimento em unidade,Portal,Em análise,7,
+CE202600255,2026-10-19,,Crato,Saúde,Medicamentos,Telefone,Em análise,10,
+CE202600256,2026-02-07,,Itapipoca,Educação,Merenda,Aplicativo,Em análise,7,
+CE202600257,2026-04-17,2026-04-19,Aquiraz,Assistência Social,Cadastro social,Portal,Concluída,5,5.0
+CE202600258,2026-03-30,2026-04-04,Maracanaú,Saúde,Exames,Portal,Concluída,5,5.0
+CE202600259,2026-09-09,2026-09-18,Sobral,Saúde,Atendimento em unidade,Telefone,Concluída,15,5.0
+CE202600260,2026-05-07,2026-05-14,Itapipoca,Assistência Social,Atendimento social,Portal,Concluída,10,5.0
+CE202600261,2026-03-16,,Crateús,Saúde,Exames,Aplicativo,Pendente,7,
+CE202600262,2026-09-25,2026-09-29,Canindé,Saúde,Atendimento em unidade,Portal,Concluída,7,5.0
+CE202600263,2026-03-30,2026-04-21,Russas,Infraestrutura,Iluminação pública,Presencial,Concluída,10,4.0
+CE202600264,2026-06-20,2026-06-28,Aquiraz,Infraestrutura,Iluminação pública,Portal,Concluída,10,2.0
+CE202600265,2026-08-14,2026-08-20,Crateús,Educação,Infraestrutura escolar,Telefone,Concluída,15,5.0
+CE202600266,2026-08-08,2026-08-10,Russas,Infraestrutura,Buracos em vias,Portal,Concluída,10,5.0
+CE202600267,2026-05-27,,Iguatu,Infraestrutura,Saneamento,E-mail,Pendente,10,
+CE202600268,2026-06-29,2026-07-07,Juazeiro do Norte,Educação,Transporte escolar,Aplicativo,Concluída,5,4.0
+CE202600269,2026-01-10,2026-01-15,Itapipoca,Assistência Social,Atendimento social,Portal,Concluída,7,3.0
+CE202600270,2026-04-04,,Itapipoca,Infraestrutura,Saneamento,Aplicativo,Em análise,7,
+CE202600271,2026-08-18,,Pacatuba,Infraestrutura,Iluminação pública,Portal,Pendente,20,
+CE202600272,2026-07-27,2026-08-10,Maracanaú,Saúde,Agendamento,Presencial,Concluída,20,4.0
+CE202600273,2026-10-11,2026-10-14,Crateús,Assistência Social,Benefício,E-mail,Concluída,10,3.0
+CE202600274,2026-10-07,,Russas,Tributação,ICMS,Portal,Pendente,7,
+CE202600275,2026-06-20,2026-06-27,Pacatuba,Infraestrutura,Iluminação pública,Portal,Concluída,10,5.0
+CE202600276,2026-05-11,,Juazeiro do Norte,Saúde,Medicamentos,Portal,Pendente,10,
+CE202600277,2026-06-18,2026-06-23,Russas,Assistência Social,Orientação,Portal,Concluída,7,4.0
+CE202600278,2026-10-08,2026-10-19,Iguatu,Saúde,Medicamentos,Telefone,Concluída,15,4.0
+CE202600279,2026-01-22,,Caucaia,Educação,Transporte escolar,Portal,Pendente,15,
+CE202600280,2026-04-13,2026-04-18,Iguatu,Tributação,IPVA,Presencial,Concluída,7,5.0
+CE202600281,2026-05-31,2026-06-17,Canindé,Tributação,Regularização,Portal,Concluída,10,3.0
+CE202600282,2026-04-20,2026-04-22,Fortaleza,Assistência Social,Cadastro social,Aplicativo,Concluída,10,5.0
+CE202600283,2026-02-01,2026-02-02,Pacatuba,Assistência Social,Cadastro social,Telefone,Concluída,10,1.0
+CE202600284,2026-01-26,,Juazeiro do Norte,Educação,Matrícula,Portal,Pendente,20,
+CE202600285,2026-01-06,,Maranguape,Tributação,Certidão,Aplicativo,Pendente,20,
+CE202600286,2026-03-01,2026-03-08,Canindé,Tributação,IPVA,Aplicativo,Cancelada,10,
+CE202600287,2026-10-13,2026-10-20,Quixadá,Infraestrutura,Iluminação pública,Portal,Concluída,10,5.0
+CE202600288,2026-09-16,2026-09-17,Caucaia,Assistência Social,Cadastro social,Portal,Concluída,10,5.0
+CE202600289,2026-04-25,2026-05-11,Maracanaú,Saúde,Atendimento em unidade,Aplicativo,Concluída,20,3.0
+CE202600290,2026-09-16,2026-09-17,Caucaia,Educação,Matrícula,E-mail,Concluída,10,3.0
+CE202600291,2026-05-18,,Caucaia,Saúde,Atendimento em unidade,Portal,Em análise,7,
+CE202600292,2026-08-18,2026-08-23,Sobral,Educação,Infraestrutura escolar,Telefone,Concluída,7,4.0
+CE202600293,2026-03-18,2026-03-23,Quixadá,Tributação,Regularização,Portal,Concluída,15,2.0
+CE202600294,2026-01-15,2026-01-21,Iguatu,Infraestrutura,Iluminação pública,Portal,Concluída,5,4.0
+CE202600295,2026-07-28,2026-07-29,Quixadá,Saúde,Atendimento em unidade,Portal,Concluída,10,1.0
+CE202600296,2026-04-30,,Pacatuba,Educação,Transporte escolar,Presencial,Pendente,7,
+CE202600297,2026-07-12,2026-07-13,Maranguape,Saúde,Atendimento em unidade,E-mail,Concluída,10,5.0
+CE202600298,2026-07-02,,Canindé,Saúde,Exames,Presencial,Em análise,7,
+CE202600299,2026-10-26,2026-10-31,Crateús,Tributação,Regularização,Portal,Concluída,10,2.0
+CE202600300,2026-01-05,2026-01-17,Juazeiro do Norte,Tributação,IPVA,Telefone,Concluída,15,4.0
+CE202600301,2026-03-05,,Fortaleza,Saúde,Exames,Telefone,Pendente,7,
+CE202600302,2026-05-09,,Crateús,Saúde,Atendimento em unidade,Portal,Pendente,10,
+CE202600303,2026-08-09,2026-08-10,Pacatuba,Infraestrutura,Manutenção,Telefone,Concluída,7,4.0
+CE202600304,2026-02-26,2026-03-07,Aquiraz,Tributação,IPVA,Portal,Concluída,5,3.0
+CE202600305,2026-04-24,2026-05-14,Maracanaú,Infraestrutura,Saneamento,Portal,Concluída,7,4.0
+CE202600306,2026-06-23,2026-06-25,Iguatu,Assistência Social,Cadastro social,Portal,Concluída,20,1.0
+CE202600307,2026-07-26,2026-08-01,Canindé,Saúde,Medicamentos,Presencial,Concluída,15,4.0
+CE202600308,2026-10-29,2026-10-31,Canindé,Assistência Social,Atendimento social,Presencial,Concluída,7,4.0
+CE202600309,2026-01-23,2026-01-24,Russas,Saúde,Agendamento,Portal,Concluída,5,3.0
+CE202600310,2026-03-26,2026-04-04,Crato,Saúde,Medicamentos,Portal,Concluída,7,3.0
+CE202600311,2026-03-10,,Maracanaú,Saúde,Medicamentos,E-mail,Em análise,20,
+CE202600312,2026-06-11,2026-06-21,Maranguape,Infraestrutura,Manutenção,Telefone,Concluída,15,5.0
+CE202600313,2026-08-06,2026-08-07,Pacatuba,Assistência Social,Orientação,Aplicativo,Concluída,20,5.0
+CE202600314,2026-07-19,2026-07-24,Maranguape,Saúde,Medicamentos,Portal,Concluída,15,4.0
+CE202600315,2026-10-25,2026-10-31,Itapipoca,Saúde,Exames,Telefone,Concluída,10,4.0
+CE202600316,2026-03-24,,Canindé,Tributação,IPVA,Telefone,Pendente,10,
+CE202600317,2026-05-23,2026-06-14,Maracanaú,Educação,Transporte escolar,Telefone,Concluída,7,4.0
+CE202600318,2026-03-20,2026-03-24,Crateús,Assistência Social,Orientação,Aplicativo,Cancelada,15,
+CE202600319,2026-06-10,2026-06-26,Juazeiro do Norte,Saúde,Exames,Portal,Concluída,15,3.0
+CE202600320,2026-04-27,2026-05-11,Aquiraz,Infraestrutura,Manutenção,Telefone,Concluída,10,2.0
+CE202600321,2026-07-21,2026-07-31,Maracanaú,Saúde,Agendamento,Presencial,Concluída,20,3.0
+CE202600322,2026-05-30,2026-06-15,Itapipoca,Assistência Social,Benefício,E-mail,Concluída,5,4.0
+CE202600323,2026-02-04,,Crato,Saúde,Exames,Portal,Pendente,20,
+CE202600324,2026-08-13,2026-08-22,Itapipoca,Educação,Transporte escolar,Portal,Concluída,15,4.0
+CE202600325,2026-07-18,2026-07-19,Russas,Saúde,Agendamento,Aplicativo,Concluída,10,5.0
+CE202600326,2026-09-16,2026-09-29,Sobral,Saúde,Atendimento em unidade,Portal,Concluída,10,2.0
+CE202600327,2026-04-28,2026-05-07,Maracanaú,Saúde,Atendimento em unidade,Telefone,Concluída,7,4.0
+CE202600328,2026-01-06,2026-01-13,Crato,Assistência Social,Benefício,Aplicativo,Concluída,20,5.0
+CE202600329,2026-05-11,,Pacatuba,Saúde,Atendimento em unidade,Portal,Em análise,20,
+CE202600330,2026-01-10,,Caucaia,Infraestrutura,Buracos em vias,Presencial,Em análise,10,
+CE202600331,2026-07-11,2026-07-15,Fortaleza,Tributação,Certidão,Telefone,Concluída,15,5.0
+CE202600332,2026-02-17,,Pacatuba,Saúde,Agendamento,Portal,Em análise,10,
+CE202600333,2026-08-02,2026-08-10,Caucaia,Educação,Merenda,Portal,Concluída,5,5.0
+CE202600334,2026-02-20,2026-03-03,Aquiraz,Tributação,IPVA,Presencial,Concluída,7,1.0
+CE202600335,2026-01-02,,Sobral,Saúde,Exames,Telefone,Em análise,20,
+CE202600336,2026-09-23,2026-10-03,Itapipoca,Infraestrutura,Manutenção,Aplicativo,Concluída,10,4.0
+CE202600337,2026-01-24,2026-02-04,Sobral,Tributação,Regularização,Aplicativo,Concluída,7,3.0
+CE202600338,2026-07-07,2026-07-19,Russas,Infraestrutura,Iluminação pública,Portal,Concluída,5,2.0
+CE202600339,2026-03-05,2026-03-06,Juazeiro do Norte,Tributação,ICMS,Aplicativo,Concluída,10,4.0
+CE202600340,2026-08-12,,Itapipoca,Saúde,Medicamentos,Portal,Em análise,15,
+CE202600341,2026-01-22,2026-02-07,Fortaleza,Infraestrutura,Saneamento,Portal,Concluída,5,3.0
+CE202600342,2026-08-04,2026-08-10,Pacatuba,Tributação,Certidão,Portal,Concluída,5,5.0
+CE202600343,2026-05-10,,Fortaleza,Infraestrutura,Manutenção,E-mail,Pendente,10,
+CE202600344,2026-06-23,2026-07-02,Pacatuba,Saúde,Atendimento em unidade,Presencial,Concluída,10,4.0
+CE202600345,2026-05-08,2026-05-19,Aquiraz,Saúde,Exames,Portal,Concluída,10,3.0
+CE202600346,2026-01-13,,Juazeiro do Norte,Educação,Transporte escolar,Portal,Pendente,10,
+CE202600347,2026-09-15,2026-09-23,Sobral,Infraestrutura,Manutenção, e-mail ,Concluída,7,1.0
+CE202600348,2026-04-12,2026-04-19,Canindé,Saúde,Exames,Portal,Concluída,10,3.0
+CE202600349,2026-10-29,2026-10-31,Quixadá,Infraestrutura,Iluminação pública,Aplicativo,Concluída,7,4.0
+CE202600350,2026-05-23,,Russas,Assistência Social,Atendimento social,Telefone,Pendente,7,
+CE202600351,2026-04-11,,Russas,Educação,Infraestrutura escolar,Telefone,Pendente,10,
+CE202600352,2026-10-07,2026-10-13,Maranguape,Infraestrutura,Manutenção,E-mail,Concluída,7,2.0
+CE202600353,2026-03-02,,Juazeiro do Norte,Saúde,Agendamento,Presencial,Em análise,5,
+CE202600354,2026-01-17,,Aquiraz,Saúde,Exames,Aplicativo,Em análise,15,
+CE202600355,2026-06-28,2026-07-03,Juazeiro do Norte,Assistência Social,Orientação,Telefone,Concluída,10,4.0
+CE202600356,2026-04-26,2026-05-06,Crateús,Assistência Social,Atendimento social,Telefone,Concluída,7,4.0
+CE202600357,2026-05-03,2026-05-09,Juazeiro do Norte,Saúde,Medicamentos,Aplicativo,Concluída,10,5.0
+CE202600358,2026-10-15,2026-10-25,Iguatu,Infraestrutura,Saneamento,Aplicativo,Concluída,5,4.0
+CE202600359,2026-01-28,2026-01-29,Crato,Infraestrutura,Buracos em vias,Presencial,Concluída,7,5.0
+CE202600360,2026-08-10,,Itapipoca,Educação,Merenda,Telefone,Pendente,15,
+CE202600361,2026-01-16,2026-02-06,Crato,Educação,Transporte escolar,Portal,Concluída,7,5.0
+CE202600362,2026-03-10,,Crato,Saúde,Atendimento em unidade,Aplicativo,Pendente,7,
+CE202600363,2026-02-03,2026-02-13,Crateús,Assistência Social,Atendimento social,Aplicativo,Concluída,20,1.0
+CE202600364,2026-10-29,2026-10-31,Iguatu,Infraestrutura,Manutenção,Presencial,Concluída,15,1.0
+CE202600365,2026-09-10,2026-09-22,Fortaleza,Tributação,ICMS,Presencial,Concluída,5,5.0
+CE202600366,2026-07-27,2026-07-28,Itapipoca,Educação,Merenda,Portal,Concluída,5,5.0
+CE202600367,2026-06-16,2026-07-02,Canindé,Saúde,Exames,Aplicativo,Concluída,7,3.0
+CE202600368,2026-10-20,,Russas,Saúde,Atendimento em unidade,Presencial,Pendente,15,
+CE202600369,2026-07-14,,Fortaleza,Infraestrutura,Saneamento,Presencial,Em análise,5,
+CE202600370,2026-02-13,2026-02-22,Crato,Assistência Social,Orientação,Portal,Concluída,10,4.0
+CE202600371,2026-06-10,2026-06-14,Crateús,Saúde,Agendamento,Telefone,Concluída,20,3.0
+CE202600372,2026-02-03,2026-02-08,Iguatu,Infraestrutura,Buracos em vias,Portal,Cancelada,7,
+CE202600373,2026-03-19,2026-04-02,Itapipoca,Saúde,Atendimento em unidade,Telefone,Concluída,10,5.0
+CE202600374,2026-05-01,2026-05-11,Crato,Infraestrutura,Buracos em vias,Telefone,Concluída,5,5.0
+CE202600375,2026-05-25,2026-06-01,Pacatuba,Assistência Social,Cadastro social,Portal,Concluída,10,5.0
+CE202600376,2026-01-08,,Aquiraz,Tributação,ICMS, portal ,Pendente,5,
+CE202600377,2026-09-21,2026-10-03,Crato,Educação,Matrícula,Aplicativo,Concluída,10,5.0
+CE202600378,2026-02-07,2026-02-08,,Infraestrutura,Manutenção,E-mail,Concluída,20,4.0
+CE202600379,2026-09-12,2026-09-18,Aquiraz,Educação,Infraestrutura escolar,Presencial,Concluída,15,2.0
+CE202600380,2026-07-22,2026-07-28,Sobral,Saúde,Exames,Portal,Concluída,15,4.0
+CE202600381,2026-04-02,,Juazeiro do Norte,Infraestrutura,Manutenção,Aplicativo,Pendente,15,
+CE202600382,2026-10-19,2026-10-22,Aquiraz,Tributação,Regularização,Portal,Concluída,20,4.0
+CE202600383,2026-07-23,2026-08-02,Maracanaú,Educação,Merenda,Telefone,Concluída,10,4.0
+CE202600384,2026-05-22,2026-05-25,Pacatuba,Educação,Matrícula,Telefone,Concluída,15,4.0
+CE202600385,2026-03-22,,Sobral,Tributação,Regularização,Aplicativo,Pendente,15,
+CE202600386,2026-09-15,2026-09-17,Pacatuba,Infraestrutura,Iluminação pública,Aplicativo,Cancelada,10,
+CE202600387,2026-10-09,2026-10-24,Sobral,Educação,Infraestrutura escolar,Telefone,Concluída,10,3.0
+CE202600388,2026-06-21,2026-06-28,Maracanaú,Educação,Infraestrutura escolar,Telefone,Concluída,15,2.0
+CE202600389,2026-07-06,2026-07-07,Maracanaú,Educação,Transporte escolar,Telefone,Concluída,7,4.0
+CE202600390,2026-07-31,2026-08-18,Canindé,Assistência Social,Atendimento social,Presencial,Concluída,15,2.0
+CE202600391,2026-08-13,2026-08-21,Juazeiro do Norte,Educação,Infraestrutura escolar,Telefone,Concluída,10,4.0
+CE202600392,2026-03-13,,Crateús,Tributação,Regularização,Aplicativo,Pendente,7,
+CE202600393,2026-04-30,,Aquiraz,Saúde,Exames,Telefone,Pendente,10,
+CE202600394,2026-06-20,2026-07-08,Aquiraz,Assistência Social,Atendimento social,Presencial,Concluída,15,3.0
+CE202600395,2026-03-17,2026-04-02,Sobral,Tributação,IPVA,E-mail,Concluída,5,3.0
+CE202600396,2026-05-09,2026-05-11,Iguatu,Saúde,Atendimento em unidade,Portal,Concluída,15,4.0
+CE202600397,2026-08-27,2026-09-03,Aquiraz,Assistência Social,Orientação,Telefone,Concluída,7,1.0
+CE202600398,2026-06-17,2026-06-28,Sobral,Educação,Transporte escolar,Telefone,Concluída,7,4.0
+CE202600399,2026-09-14,2026-09-28,Juazeiro do Norte,Saúde,Medicamentos,Portal,Concluída,15,5.0
+CE202600400,2026-10-28,2026-10-29,Fortaleza,Infraestrutura,Iluminação pública,Aplicativo,Concluída,15,2.0
+CE202600401,2026-09-22,,Iguatu,Assistência Social,Orientação,Presencial,Em análise,10,
+CE202600402,2026-07-06,2026-07-22,Caucaia,Tributação,Certidão,Presencial,Concluída,5,4.0
+CE202600403,2026-10-29,2026-10-31,Maracanaú,Assistência Social,Orientação,Portal,Concluída,15,1.0
+CE202600404,2026-06-18,2026-07-03,Maranguape,Infraestrutura,Manutenção,Presencial,Concluída,5,2.0
+CE202600405,2026-03-07,,Aquiraz,Educação,Transporte escolar,E-mail,Em análise,10,
+CE202600406,2026-06-13,2026-06-14,Pacatuba,Educação,Merenda,Telefone,Concluída,15,5.0
+CE202600407,2026-04-18,,Crato,Infraestrutura,Manutenção,Telefone,Em análise,15,
+CE202600408,2026-05-18,2026-06-02,Iguatu,Saúde,Exames,Portal,Concluída,7,5.0
+CE202600409,2026-01-14,,Itapipoca,Saúde,Agendamento,Portal,Pendente,10,
+CE202600410,2026-06-08,2026-06-20,Sobral,Infraestrutura,Iluminação pública,Presencial,Concluída,10,3.0
+CE202600411,2026-10-18,2026-10-19,Itapipoca,Saúde,Exames, portal ,Cancelada,15,
+CE202600412,2026-08-12,2026-08-25,Canindé,Assistência Social,Atendimento social,Presencial,Concluída,10,5.0
+CE202600413,2026-05-31,2026-06-06,Sobral,Infraestrutura,Saneamento,Telefone,Concluída,5,4.0
+CE202600414,2026-03-05,2026-03-16,Aquiraz,Saúde,Exames,Telefone,Concluída,7,5.0
+CE202600415,2026-04-05,2026-04-09,Pacatuba,Educação,Transporte escolar,Telefone,Concluída,15,4.0
+CE202600416,2026-05-20,2026-06-01,Itapipoca,Assistência Social,Cadastro social,Portal,Concluída,10,2.0
+CE202600417,2026-07-18,,Iguatu,Educação,Transporte escolar,Presencial,Pendente,5,
+CE202600418,2026-01-07,2026-01-12,Juazeiro do Norte,Educação,Matrícula,Telefone,Concluída,5,3.0
+CE202600419,2026-02-07,2026-02-20,Juazeiro do Norte,Saúde,Medicamentos,Portal,Concluída,10,4.0
+CE202600420,2026-10-14,2026-10-22,Iguatu,Saúde,Medicamentos,Presencial,Concluída,5,5.0
+CE202600421,2026-08-11,2026-08-12,Russas,Tributação,Certidão,Telefone,Cancelada,7,
+CE202600422,2026-05-13,2026-05-22,Russas,Educação,Merenda,E-mail,Concluída,20,4.0
+CE202600423,2026-10-08,2026-10-13,Juazeiro do Norte,Saúde,Medicamentos,Telefone,Concluída,15,4.0
+CE202600424,2026-09-07,,Maracanaú,Saúde,Atendimento em unidade,Presencial,Pendente,5,
+CE202600425,2026-01-03,2026-01-06,Maracanaú,Tributação,Certidão,Presencial,Concluída,10,4.0
+CE202600426,2026-04-15,2026-05-03,Aquiraz,Educação,Merenda,Presencial,Concluída,7,5.0
+CE202600427,2026-04-08,2026-04-17,Pacatuba,Educação,Merenda,Aplicativo,Concluída,7,5.0
+CE202600428,2026-07-21,2026-08-03,Sobral,Saúde,Agendamento,Aplicativo,Concluída,7,5.0
+CE202600429,2026-08-25,2026-09-01,Aquiraz,Saúde,Agendamento,Portal,Concluída,20,3.0
+CE202600430,2026-07-27,,Russas,Saúde,Agendamento,Portal,Pendente,20,
+CE202600431,2026-03-20,2026-03-25,Crateús,Infraestrutura,Iluminação pública,Telefone,Concluída,7,4.0
+CE202600432,2026-03-19,,Caucaia,Infraestrutura,Iluminação pública,Aplicativo,Pendente,10,
+CE202600433,2026-08-04,,Juazeiro do Norte,Infraestrutura,Saneamento,Portal,Em análise,15,
+CE202600434,2026-08-07,2026-08-21,Quixadá,Saúde,Atendimento em unidade,Portal,Concluída,7,4.0
+CE202600435,2026-08-29,,Russas,Infraestrutura,Saneamento,Telefone,Pendente,7,
+CE202600436,2026-09-08,2026-09-24,Quixadá,Educação,Merenda,Presencial,Concluída,20,5.0
+CE202600437,2026-08-15,2026-08-19,Sobral,Saúde,Medicamentos,Aplicativo,Concluída,15,2.0
+CE202600438,2026-04-07,,Russas,Educação,Matrícula,Portal,Em análise,10,
+CE202600439,2026-10-16,2026-10-23,Iguatu,Assistência Social,Orientação,Telefone,Concluída,7,5.0
+CE202600440,2026-05-07,2026-05-08,Juazeiro do Norte,Educação,Transporte escolar,Aplicativo,Concluída,15,3.0
+CE202600441,2026-03-19,2026-03-23,,Saúde,Medicamentos,Portal,Concluída,20,4.0
+CE202600442,2026-09-30,,Crato,Infraestrutura,Iluminação pública,Telefone,Pendente,15,
+CE202600443,2026-10-24,2026-10-29,Maracanaú,Assistência Social,Cadastro social,Portal,Concluída,10,3.0
+CE202600444,2026-01-08,2026-01-25,Canindé,Infraestrutura,Manutenção,Portal,Concluída,10,2.0
+CE202600445,2026-07-01,2026-07-09,Caucaia,Saúde,Agendamento,Telefone,Concluída,7,3.0
+CE202600446,2026-02-13,2026-03-01,Aquiraz,Saúde,Medicamentos,Presencial,Concluída,5,5.0
+CE202600447,2026-10-03,2026-10-18,Maracanaú,Tributação,IPVA,Portal,Concluída,10,3.0
+CE202600448,2026-04-02,,Canindé,Infraestrutura,Iluminação pública,Portal,Em análise,7,
+CE202600449,2026-06-16,,Juazeiro do Norte,Educação,Merenda,Aplicativo,Pendente,15,
+CE202600450,2026-02-09,2026-02-16,Itapipoca,Tributação,Regularização,Portal,Concluída,5,3.0
+CE202600451,2026-03-01,2026-03-04,Quixadá,Tributação,IPVA,Presencial,Cancelada,15,
+CE202600452,2026-07-16,2026-07-25,Crato,Educação,Merenda,Presencial,Concluída,20,3.0
+CE202600453,2026-05-25,2026-06-04,Quixadá,Educação,Merenda,Portal,Concluída,10,3.0
+CE202600454,2026-04-11,2026-04-14,Maracanaú,Educação,Infraestrutura escolar,Presencial,Concluída,7,4.0
+CE202600455,2026-02-07,,Itapipoca,Tributação,IPVA,Portal,Pendente,5,
+CE202600456,2026-08-20,,Caucaia,Assistência Social,Atendimento social,Portal,Pendente,5,
+CE202600457,2026-06-30,2026-07-02,Sobral,Educação,Infraestrutura escolar,Presencial,Cancelada,5,
+CE202600458,2026-01-21,,Aquiraz,Assistência Social,Orientação,Portal,Pendente,7,
+CE202600459,2026-04-18,2026-04-20,Pacatuba,Infraestrutura,Buracos em vias,Aplicativo,Concluída,7,2.0
+CE202600460,2026-08-25,2026-09-01,Fortaleza,Educação,Matrícula,Presencial,Cancelada,5,
+CE202600461,2026-03-12,2026-03-14,Caucaia,Infraestrutura,Saneamento,Presencial,Concluída,5,5.0
+CE202600462,2026-10-27,,Caucaia,Assistência Social,Atendimento social,Portal,Em análise,5,
+CE202600463,2026-01-12,,Maranguape,Saúde,Exames,Telefone,Pendente,7,
+CE202600464,2026-01-18,2026-01-31,Iguatu,Saúde,Agendamento,Portal,Concluída,15,2.0
+CE202600465,2026-03-16,,Iguatu,Saúde,Medicamentos,Telefone,Em análise,10,
+CE202600466,2026-01-29,2026-02-06,Pacatuba,Infraestrutura,Saneamento,Presencial,Concluída,20,5.0
+CE202600467,2026-09-15,2026-09-20,Itapipoca,Tributação,Regularização,Portal,Concluída,5,2.0
+CE202600468,2026-08-29,2026-09-25,Pacatuba,Assistência Social,Orientação,Portal,Concluída,5,1.0
+CE202600469,2026-06-13,,Pacatuba,Saúde,Medicamentos, portal ,Em análise,10,
+CE202600470,2026-07-25,2026-07-30,Maracanaú,Assistência Social,Orientação,Telefone,Concluída,10,4.0
+CE202600471,2026-06-06,2026-06-18,Juazeiro do Norte,Saúde,Agendamento,Portal,Concluída,20,3.0
+CE202600472,2026-06-21,,Caucaia,Tributação,Regularização,Telefone,Pendente,7,
+CE202600473,2026-03-27,,Pacatuba,Educação,Matrícula,E-mail,Pendente,10,
+CE202600474,2026-03-24,2026-03-27,Pacatuba,Infraestrutura,Buracos em vias,Telefone,Concluída,5,2.0
+CE202600475,2026-01-02,,Caucaia,Saúde,Medicamentos,Telefone,Em análise,5,
+CE202600476,2026-03-11,2026-03-12,Crateús,Educação,Matrícula,Presencial,Concluída,15,2.0
+CE202600477,2026-07-29,,Aquiraz,Infraestrutura,Manutenção,Telefone,Em análise,15,
+CE202600478,2026-04-09,2026-04-20,Caucaia,Infraestrutura,Iluminação pública,Portal,Concluída,10,3.0
+CE202600479,2026-01-10,2026-01-25,Quixadá,Infraestrutura,Iluminação pública,Presencial,Concluída,5,3.0
+CE202600480,2026-05-30,2026-06-08,Pacatuba,Infraestrutura,Saneamento,Portal,Concluída,20,4.0
+CE202600481,2026-05-25,2026-05-26,Sobral,Tributação,ICMS,Portal,Concluída,20,1.0
+CE202600482,2026-07-02,2026-07-08,Canindé,Saúde,Medicamentos,Portal,Concluída,20,4.0
+CE202600483,2026-02-28,2026-03-10,Canindé,Saúde,Atendimento em unidade,Telefone,Concluída,5,1.0
+CE202600484,2026-09-01,2026-09-11,Russas,Assistência Social,Cadastro social,Portal,Concluída,15,5.0
+CE202600485,2026-05-27,2026-06-14,Sobral,Tributação,Certidão,Telefone,Concluída,7,3.0
+CE202600486,2026-03-30,2026-04-05,Juazeiro do Norte,Tributação,Regularização,Telefone,Concluída,7,2.0
+CE202600487,2026-09-09,2026-09-16,Canindé,Infraestrutura,Iluminação pública,Portal,Concluída,15,1.0
+CE202600488,2026-04-10,2026-04-16,Iguatu,Saúde,Agendamento,Presencial,Concluída,7,4.0
+CE202600489,2026-02-24,2026-03-11,Crato,Educação,Merenda,Presencial,Concluída,10,3.0
+CE202600490,2026-02-11,2026-02-16,Fortaleza,Infraestrutura,Buracos em vias,Telefone,Concluída,15,5.0
+CE202600491,2026-07-05,,Fortaleza,Educação,Matrícula,E-mail,Pendente,10,
+CE202600492,2026-09-21,,Maranguape,Educação,Matrícula,Presencial,Pendente,10,
+CE202600493,2026-10-13,2026-10-22,Crateús,Infraestrutura,Iluminação pública,E-mail,Concluída,7,4.0
+CE202600494,2026-08-14,,Aquiraz,Saúde,Agendamento,Presencial,Pendente,5,
+CE202600495,2026-09-16,,Caucaia,Infraestrutura,Iluminação pública,Aplicativo,Pendente,10,
+CE202600496,2026-09-05,2026-09-13,Canindé,Tributação,Regularização,Portal,Concluída,7,2.0
+CE202600497,2026-06-13,2026-06-14,Fortaleza,Infraestrutura,Saneamento,Portal,Concluída,7,5.0
+CE202600498,2026-09-19,2026-09-29,Crato,Assistência Social,Benefício,Portal,Concluída,10,2.0
+CE202600499,2026-07-30,,Russas,Tributação,Certidão,Telefone,Pendente,10,
+CE202600500,2026-03-17,2026-03-19,Itapipoca,Tributação,ICMS,Presencial,Concluída,10,3.0
